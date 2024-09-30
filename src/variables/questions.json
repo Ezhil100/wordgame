@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "question": "A fruit that keeps the doctor away if eaten daily",
+        "answer": "apple"
+    },
+    {
+        "id": 2,
+        "question": "A fruit that is yellow and is a good source of potassium",
+        "answer": "banana"
+    },
+    {
+        "id": 3,
+        "question": "A fruit that is red and is a good source of vitamin C",
+        "answer": "strawberry"
+    },
+    {
+        "id": 4,
+        "question": "A fruit that is green and is a good source of vitamin K",
+        "answer": "kiwi"
+    },
+    {
+        "id": 5,
+        "question": "A fruit that is orange and is a good source of vitamin A",
+        "answer": "carrot"
+    },
+    {
+        "id": 6,
+        "question": "A fruit that is purple and is a good source of vitamin B6",
+        "answer": "grape"
+    },
+    {
+        "id": 7,
+        "question": "A fruit that is brown and is a good source of vitamin E",
+        "answer": "avocado"
+    },
+    {
+        "id": 8,
+        "question": "A fruit that is white and is a good source of vitamin B9",
+        "answer": "banana"
+    },
+    {
+        "id": 9,
+        "question": "A fruit that is black and is a good source of vitamin B12",
+        "answer": "blackberry"
+    },
+    {
+        "id": 10,
+        "question": "A fruit that is pink and is a good source of vitamin B1",
+        "answer": "watermelon"
+    }
+]
